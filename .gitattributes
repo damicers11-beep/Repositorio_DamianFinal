@@ -1,2 +1,46 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Unity text-based assets
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.physicMaterial text eol=lf
+*.renderTexture text eol=lf
+*.lighting text eol=lf
+*.giparams text eol=lf
+*.flare text eol=lf
+*.guiskin text eol=lf
+*.mask text eol=lf
+*.overrideController text eol=lf
+*.playable text eol=lf
+*.spriteatlas text eol=lf
+*.terrainlayer text eol=lf
+
+# Unity scenes and project settings
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+
+# C# source files
+*.cs text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.tga binary
+*.fbx binary
+*.obj binary
+*.blend binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.dll binary
+*.exe binary
+*.zip binary
